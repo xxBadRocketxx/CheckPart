@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>Check Part</Name>
+		<Assembly>C:\_blog\CheckPart.dll</Assembly>
+		<!-- Thay đổi đường dẫn -->
+		<FullClassName>CheckPart.CheckPartCommand</FullClassName>
+		<ClientId>{51F520E6-9540-407E-A05A-E00CA69D472B}</ClientId>
+		<VendorId>YOUR_VENDOR_ID</VendorId>
+		<VendorDescription>Your Company Name</VendorDescription>
+	</AddIn>
+</RevitAddIns>
